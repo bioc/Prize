@@ -2,7 +2,7 @@ Package: Prize
 Type: Package
 Title: Prize: an R package for prioritization estimation based on
         analytic hierarchy process
-Version: 1.17.0
+Version: 1.18.0
 Date: 2016-12-13
 Author: Daryanaz Dargahi <daryanazdargahi@gmail.com>
 Maintainer: Daryanaz Dargahi <daryanazdargahi@gmail.com>
